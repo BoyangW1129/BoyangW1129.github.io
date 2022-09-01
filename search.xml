@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>博客介绍</title>
+      <link href="/undefined/d21e.html"/>
+      <url>/undefined/d21e.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="【南北方都跑过】"><a href="#【南北方都跑过】" class="headerlink" title="【南北方都跑过】"></a>【南北方都跑过】</h3><ul><li>Boyang W民办大学专任教师。毕业于<strong>郑州大学</strong>建筑学院城乡规划专业，获得工学硕士学位。本科就读于<strong>甘肃农业大学</strong>林学院园林专业。</li><li>Yingjie G 在读博士生，<strong>北京工业大学</strong>城乡规划学。毕业于<strong>海南大学</strong>林学院风景园林专业，获得工学硕士学位。本科就读于<strong>海南大学</strong>林学院风景园林学位。</li></ul><h3 id="【生活总有热爱】"><a href="#【生活总有热爱】" class="headerlink" title="【生活总有热爱】"></a>【生活总有热爱】</h3><ul><li>知识管理、写作、读书、猫、旅行、摄影。</li></ul><h3 id="【适合群体】"><a href="#【适合群体】" class="headerlink" title="【适合群体】"></a>【适合群体】</h3><ul><li>规划、景观及相近、相关专业的学生。</li></ul><h3 id="【学库内容】"><a href="#【学库内容】" class="headerlink" title="【学库内容】"></a>【学库内容】</h3><ul><li>设计类软件；空间定量分析；3S分析技术；专业基础理论；专业&amp;科研热点；专业科研软件及方法；专业书库 &amp; 读书笔记。</li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/undefined/4a17b156.html"/>
       <url>/undefined/4a17b156.html</url>
@@ -16,5 +29,29 @@
     
     
   
+  
+    
+    
+    <entry>
+      <title></title>
+      <link href="/butterfly.json"/>
+      <url>/butterfly.json</url>
+      
+        <content type="html"><![CDATA[{"aplayer":{"enable":true,"js":["https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.js","https://cdn.jsdelivr.net/npm/meting@1.2.0/dist/Meting.min.js"],"css":["https://cdn.bootcss.com/aplayer/1.10.1/APlayer.min.css"],"id":2286790677,"server":"netease","type":"playlist","fixed":"true","order":"random","preload":"none","listFolded":"false"}}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>music</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
   
 </search>
